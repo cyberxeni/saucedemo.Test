@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import pages.CartPage;
 import pages.LoginPage;
 
-public class verifyProductDetails {
+public class VerifyProductDetails {
     private ChromeDriver driver;
 
     @BeforeClass
